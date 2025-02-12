@@ -4,7 +4,6 @@
 - 🎓 Pursuing a Master's in Computer Science at the [University of Dayton](https://udayton.edu/)
 - 🚀 Passionate about AI/ML, data analytics, and crafting automation-driven solutions
 - 💡 Ask me about predictive modeling, process optimization, and creative software development
-- 📫 Reach me at [Email](mailto:ketan.joshi590@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ketanmjoshi)
 - 🔗 Explore my work on [GitHub](https://github.com/ketankj)
 - - 🙋‍♂️ My [Resume](https://drive.google.com/file/d/1Kmy7qmyCJL6cVB3cAdef0TaAOn13TNQR/view?usp=sharing)
 
