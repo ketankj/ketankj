@@ -4,7 +4,7 @@
 - 🎓 Pursuing a Master's in Computer Science at the [University of Dayton](https://udayton.edu/)
 - 🚀 Passionate about AI/ML, data analytics, and crafting automation-driven solutions
 - 💡 Ask me about predictive modeling, process optimization, and creative software development
-- - 🙋‍♂️ My [Resume](https://drive.google.com/file/d/1LCDeKVE4_zMgpmrdF5F3FZ_lR23qFTqr/view?usp=sharing)
+- - 🙋‍♂️ My [Resume](https://drive.google.com/file/d/17IBCzaa97OK05owqqK2MNs23GxF8Jz0h/view?usp=drive_link)
 
 <hr>
 
